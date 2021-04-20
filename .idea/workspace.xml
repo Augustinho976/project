@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a32e4fa-8bd4-408d-8215-83708e5563be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qQuf7Yywe7bBc43cs7ed4n1rrl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Web_Projects\cof_fee\Images" />
+      <recent name="C:\xampp\htdocs\Web_Projects\cof_fee" />
+      <recent name="C:\xampp\htdocs\Web_Projects\cof_fee\Images\Coffee" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a32e4fa-8bd4-408d-8215-83708e5563be" name="Default Changelist" comment="" />
+      <created>1617024295699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617024295699</updated>
+      <workItem from="1617024306511" duration="12213000" />
+      <workItem from="1617083188071" duration="11123000" />
+      <workItem from="1617121639261" duration="5854000" />
+      <workItem from="1617176831045" duration="22919000" />
+      <workItem from="1617253691539" duration="15518000" />
+      <workItem from="1617342980108" duration="2348000" />
+      <workItem from="1617353429601" duration="10568000" />
+      <workItem from="1617434612870" duration="2827000" />
+      <workItem from="1617450711395" duration="3611000" />
+      <workItem from="1617520375819" duration="13939000" />
+      <workItem from="1617601835686" duration="13163000" />
+      <workItem from="1617689712930" duration="23640000" />
+      <workItem from="1617777238150" duration="6295000" />
+      <workItem from="1617867229235" duration="4248000" />
+      <workItem from="1617878365357" duration="5527000" />
+      <workItem from="1617947332154" duration="763000" />
+      <workItem from="1617950262529" duration="6554000" />
+      <workItem from="1618037300306" duration="26180000" />
+      <workItem from="1618120396689" duration="1860000" />
+      <workItem from="1618132521068" duration="4882000" />
+      <workItem from="1618213535560" duration="12062000" />
+      <workItem from="1618297374031" duration="12489000" />
+      <workItem from="1618377306128" duration="13226000" />
+      <workItem from="1618481831925" duration="15013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
